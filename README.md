@@ -1,4 +1,4 @@
-@author
+@author Zoheb Hasan 
 
 Implemented a fully functional generic abstract data type, by using two-way iterable nodes and only an Iterable interface (from the java
 library to maintain the hierarchy contract). The client code will allow the user to traverse their data both frontwards and backward by using

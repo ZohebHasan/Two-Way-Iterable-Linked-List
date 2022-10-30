@@ -1,6 +1,3 @@
-// Author - Zoheb Hasan - 114687894 - CSE214 HW1 - Fall 2022
-package cse214hw1;
-
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
